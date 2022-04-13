@@ -1,0 +1,3 @@
+Nombre de prédictions correctes: 11700
+Pourcentage de prédictions correctes : 98%
+Accuracy score: 0.9824502477118146
